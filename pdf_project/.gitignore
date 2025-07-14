@@ -1,4 +1,4 @@
 *.pdf
 !summary_final.pdf
 *.txt
-draft_1.pdf
+!draft_1.pdf
