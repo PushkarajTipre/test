@@ -1,0 +1,3 @@
+*.pdf
+!summary_final.pdf
+*.txt
